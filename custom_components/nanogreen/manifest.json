@@ -1,6 +1,6 @@
 {
-  "domain": "nanogreen",
-  "name": "Nanogreen",
+  "domain": "nanogreenathome",
+  "name": "Nanogreen At Home",
   "documentation": "https://github.com/nanogreencz/homeassistant-integrations",
   "dependencies": [],
   "codeowners": [],
