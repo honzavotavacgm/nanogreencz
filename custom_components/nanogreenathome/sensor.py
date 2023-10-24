@@ -1,3 +1,6 @@
+import sys
+sys.path.append()
+
 from homeassistant.components.sensor import SensorEntity, SensorEntityDescription
 from homeassistant.components.binary_sensor import (
     BinarySensorEntity,

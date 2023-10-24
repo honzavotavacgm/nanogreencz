@@ -5,8 +5,8 @@ from homeassistant.components.binary_sensor import BinarySensorEntityDescription
 from homeassistant.const import Platform
 
 
-DOMAIN = "nanogreen"
-DEFAULT_NAME = "nanogreen"
+DOMAIN = "nanogreenathome"
+DEFAULT_NAME = "nanogreenathome"
 DEFAULT_LANGUAGE = "en"
 ENTRY_NAME = "name"
 ENTRY_COORDINATOR = "nanogreen_coordinator"
